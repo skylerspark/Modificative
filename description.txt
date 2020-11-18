@@ -1,10 +1,12 @@
-Modificative is an experimental mod created by Web Developer and Programmer Sir Code
+Deepest is just an Experiment 
 
 Current Additions:
 
 [c/ff0000:Weapons:]
 Deep Sword - 160 Damage, Swift Speed, Expert, Planned to be an earnable reward for killing Moonlord.
 
-[c/ffff00:Debug Items:]
+[c/ffff00:Debug Items:] (Unobtainable)
 Savvy Safe Sword - Infinite Damage
-Savvy Safe Wings - Infinite Flight and Defense
+Savvy Safe Wings - Infinite Flight
+Savvy Safe Amulet - Infinite Defense
+Savvy Safe Amulet of Flight - Infinite Flight and Defense (Get by hacking in, or crafting the above 2 items together)
