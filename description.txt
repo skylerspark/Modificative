@@ -1,0 +1,10 @@
+Modificative is an experimental mod created by Web Developer and Programmer Sir Code
+
+Current Additions:
+
+[c/ff0000:Weapons:]
+Deep Sword - 160 Damage, Swift Speed, Expert, Planned to be an earnable reward for killing Moonlord.
+
+[c/ffff00:Debug Items:]
+Savvy Safe Sword - Infinite Damage
+Savvy Safe Wings - Infinite Flight and Defense
