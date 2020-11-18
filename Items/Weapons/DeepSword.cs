@@ -30,9 +30,5 @@ namespace Modificative.Items.Weapons
 			item.value = Item.buyPrice(gold: 0);
 			item.UseSound = SoundID.Item1;
 		}
-
-		/* public override void OnHitNPC(Player player, NPC target, int damage, float knockback, bool crit) {
-			target.AddBuff(BuffID.OnFire, 60);
-		} */
 	}
 }
